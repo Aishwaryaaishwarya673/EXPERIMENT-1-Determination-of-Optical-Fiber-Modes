@@ -52,13 +52,8 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 
 ## 📊 OBSERVATION AND CALCULATION
 
-- 
-Parameter of given fiber are,
-A = 4.5μm (core radius), N.A = 0.11, λ = 633nm
-V = 2 π x A x N.A / λ = 4.91
-From fig. shows only 4 LP modes propagates.
-Total number of modes = V^2 / 2 = 4.91^2 / 2
+<img width="755" height="1280" alt="image" src="https://github.com/user-attachments/assets/0d0507a4-a999-4cf5-9717-3de89cce0a07" />
 
----
-## Tabulation
+
 ## Result
+The study successfully achieved the aim by observing the lower-order Linearly Polarized (LP) modes of the fiber. The Single Mode Fiber output was examined, showing the fundamental LP01 mode (a single circular spot) and higher-order LP modes (patterns with two, three, and four lobes) when the coupling alignment was slightly adjusted.
